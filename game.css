@@ -1,0 +1,12 @@
+body{
+	background-image: linear-gradient(to right top, #1ba8ee, #6795f4, #a77ae5, #d954bd, #f32581, #ff2e60, #ff483b, #fd6600, #ff8e00, #ffb500, #ffda00, #ffff1c);
+	background-size: cover;
+	background-position: center;
+}
+
+
+#div_player2, #div_player1{
+	float:none;
+	background-color: rgb(18, 213, 231);
+padding:20px;
+}
